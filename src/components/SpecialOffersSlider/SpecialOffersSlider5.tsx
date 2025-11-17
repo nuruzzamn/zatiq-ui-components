@@ -1,5 +1,5 @@
 import React from 'react';
-import containerBg from '../../assets/image/spOffer/container.png';
+import containerBg from '../../assets/image/spOffer/Container.png';
 
 const SpecialOffersSlider5: React.FC = () => {
   return (
