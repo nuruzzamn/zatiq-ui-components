@@ -1,5 +1,4 @@
 import React from 'react';
-import { Truck, CreditCard, RotateCcw, MessageCircle } from 'lucide-react';
 
 // Component-specific types
 interface FeatureBadgeProps {

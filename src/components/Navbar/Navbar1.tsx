@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Search, Moon, ShoppingBag, X } from 'lucide-react';
+import { Search, X } from 'lucide-react';
 import logoImage from '../../assets/image/nav/nav1.png';
 import menuIcon from '../../assets/menu_icon.svg';
 
